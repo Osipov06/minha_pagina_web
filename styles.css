@@ -1,0 +1,50 @@
+
+body {
+    background:lightgoldenrodyellow
+}
+#titulo1 {
+    text-align: center;
+    font-size: 50px;
+    color:bisque;}
+    .p1 {
+        text-align:justificy;
+        font-size: 20px;
+        color:lightblue;}
+        .p2 {
+            text-align:justify;
+            font: 20px;
+            color:bisque}
+
+            #img1{
+                display:block;
+                margin: 0 auto;}
+
+#titulo2 {
+    text-align: center;
+    font-size: 30px;
+    color:aliceblue}
+
+    .ul{
+        display: inline-block;
+        vertical-align: top;
+        width: 20%;
+        margin-right: 15%;
+        font-size: 20px;
+    }
+
+    #img2{
+        width: 50%;
+    }
+
+    header{
+        text-align: center;
+        font-size: 50px;
+        color:aliceblue;
+    }
+
+    .principal{
+        background-color: bisque;}
+
+        .beneficios{
+            background-color: aliceblue;}
+            
